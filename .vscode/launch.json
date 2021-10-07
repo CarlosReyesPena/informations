@@ -10,11 +10,9 @@
             "request": "launch",
             "program": "${fileDirname}/app",
             "args": [
-                "il",
-                "fait",
-                "gris",
-                "sur",
-                "Yverdon"
+                "4",
+                "10",
+                "+"
             ],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
